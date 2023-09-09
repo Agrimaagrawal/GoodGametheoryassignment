@@ -3,7 +3,7 @@ const reducer=(state,action)=>{
         case "GET_DATA":
             return{
                 ...state,
-                data:action.payload.data
+                data:[...action.payload.data]
             };
         case "SEARCH_POST":
             return{
