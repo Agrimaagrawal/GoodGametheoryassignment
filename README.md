@@ -1,8 +1,29 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a website contains all beers and their description and search functionality to find about specific beer
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Agrimaagrawal/GoodGametheoryassignment/main/src/assets/screenshot.png)
+
+
+## Tech Stack
+
+React js
+
+Tailwind Css
+
+Auth0
+
+React Context
+
+
+## Features
+
+- Search for specific Beer
+- Infinite Scrolling
+- Authentication and Routing
+
+
+
